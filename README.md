@@ -2,6 +2,15 @@
 
 [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) - a collection of quality extensions for Magento 2 to help you build, grow and manage your Magento 2 stores.
 
+### Magento 2 FREE Extensions
+  * [Magento 2 Checkout Order Comments](https://www.ulmod.com/magento-2-order-comment-extension.html)
+  * [Magento 2 Checkout Newsletter Subscription](https://www.ulmod.com/checkout-subcription-for-magento-2.html)
+  * [Magento 2 Newsletter Popup](https://www.ulmod.com/magento-2-newsletter-popup.html)
+  * [Magento 2 Product Slider](https://www.ulmod.com/magento-2-product-slider-extension.html)
+  * [Magento 2 Scroll To Top](https://www.ulmod.com/magento-2-scroll-to-top-extension.html)  
+  * [Magento 2 Read More Less Description](https://www.ulmod.com/read-more-less-for-magento-2.html)  
+  * [Magento 2 Reindexer](https://www.ulmod.com/reindexer-for-magento-2.html)  
+
 ### Magento 2 Promotion Extensions
   * [Magento 2 Bundle Kit - Product Kits - Combo Discounts](https://www.ulmod.com/bundle-kit-for-magento-2.html)
   * [Magento 2 Multiple Coupons](https://www.ulmod.com/multiple-coupons-for-magento-2.html)
