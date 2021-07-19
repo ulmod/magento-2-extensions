@@ -38,7 +38,7 @@
   * [Magento 2 CMS Pages Export & Import](https://www.ulmod.com/cms-export-and-import-for-magento-2.html)
   * [Magento 2 Product Attributes Export & Import](https://www.ulmod.com/product-attributes-export-import-for-magento-2.html)  
   * [Magento 2 Product Relations Export & Import](https://www.ulmod.com/product-relations-export-import-for-magento-2.html)
-  * [Magento 2 URL Rewrites Export & Import](https://www.ulmod.com/url-rewrites-export-import-for-magento-2.html")  
+  * [Magento 2 URL Rewrites Export & Import](https://www.ulmod.com/url-rewrites-export-import-for-magento-2.html)  
   * [Magento 2 Wishlist Items Export & Import](https://www.ulmod.com/wishlist-items-export-import-for-magento-2.html)
 
 ### Magento 2 Admins Extensions
